@@ -6,5 +6,6 @@ __pycache__/
 # Ignore data files
 tiktok-results/
 reddit-results/
+vnexpress-results/
 cookies.txt
 *.cookies
