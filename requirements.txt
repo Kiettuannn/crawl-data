@@ -1,3 +1,5 @@
 yt-dlp
 browser_cookie3
 requests
+pandas
+xlsxwriter
