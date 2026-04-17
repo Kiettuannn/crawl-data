@@ -5,3 +5,5 @@ __pycache__/
 
 # Ignore data files
 tiktok-results/
+cookies.txt
+*.cookies
